@@ -1,0 +1,17 @@
+{
+  "name": "Develop",
+  "version": "1.0.0",
+  "description": "we",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "inquirer": "^6.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
